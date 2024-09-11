@@ -2,8 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting 
-#### Developed By: T MOUNISH
-#### Reg.NO: 212223240098
+#### Developed By: Naveen G
+#### Reg.NO: 212223220066
 # AIM:
 To practice Linux Commands and Shell Scripting
 
@@ -1372,8 +1372,8 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 ```
-Enter your name:MOUNISH
-Hello MOUNISH, welcome to my program. 
+Enter your name:Naveen G
+Hello Naveen G, welcome to my program. 
 
 ```
 
@@ -1388,8 +1388,8 @@ $ chmod 755 exread1.sh
 
 ## OUTPUT
 ```
-Enter your name: MOUNISH
-Hello MOUNISH, welcome to my program. 
+Enter your name: Naveen G
+Hello Naveen G, welcome to my program. 
 ```
 
 
